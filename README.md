@@ -3,6 +3,7 @@ Script desenvolvido em Ruby para a extração, limpeza e estruturação de uma b
 
 ## 📌 Escopo do Trabalho: Trabalho Prático 1 (T1) — Nota 2 (N2).
 Tema: Desinformação com Inteligência Artificial
+
 Período de Coleta:
 
 ## 🛠️ Tecnologias e Ferramentas
