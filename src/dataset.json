@@ -120,7 +120,123 @@
     "classe": "Fake"
   },
   {
-    "texto": "",
+    "texto": "OpenAI e Microsoft anunciaram uma revisão contratual estabelecendo que um painel de especialistas independentes verificará se a OpenAI atingiu a Inteligência Artificial Geral (AGI). O acordo, firmado durante a reestruturação da OpenAI para se tornar uma entidade com fins lucrativos sob o OpenAI Group PBC com a Microsoft retendo 27% das ações, define as diretrizes de propriedade intelectual da Microsoft sobre as pesquisas até a validação da AGI ou até o ano de 2030. Adicionalmente, determinou-se que a Microsoft poderá buscar o desenvolvimento da AGI de forma independente ou com terceiros, desde que respeite limites computacionais previamente estabelecidos caso utilize a propriedade intelectual da parceira.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A OpenAI abriu um processo judicial contra Elon Musk alegando táticas de má-fé por parte do bilionário, a quem acusou de tentar assumir o controle absoluto da companhia de forma inconsistente com sua saída em 2018. A ação critica o dono do X classificando-o como um pretenso ditador da AGI devido à sua insistência em travar o progresso comercial da empresa. O processo rebate as acusações de Musk de que a transição da OpenAI para um modelo com fins lucrativos violaria os princípios fundacionais de interesse público. O julgamento federal da ação está agendado para ocorrer em março de 2026 na Califórnia.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O CEO da OpenAI, Sam Altman, revelou durante participação em um podcast que a Meta ofereceu bônus de contratação de até US$ 100 milhões e pacotes salariais agressivos para recrutar funcionários especialistas de sua empresa. Segundo Altman, a iniciativa liderada por Mark Zuckerberg buscava formar um time focado no desenvolvimento de ferramentas avançadas e de uma inteligência artificial geral (AGI). Contudo, o executivo destacou que os principais profissionais recusaram as propostas por considerarem a concorrente pouco inovadora e por enxergarem riscos de desgaste cultural em vagas focadas prioritariamente em alta remuneração.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A OpenAI apresentou os resultados do benchmark GPDval, criado para monitorar o desempenho de ferramentas de inteligência artificial em comparação direta com humanos especialistas em tarefas economicamente valiosas de 44 ocupações distribuídas por 9 setores do mercado. Os testes revelaram que os melhores modelos de fronteira atuais estão próximos da qualidade do trabalho profissional, com o modelo Claude Opus 4.1 da Anthropic igualando ou superando especialistas em 47,55% das atividades, especialmente em aspectos estéticos, enquanto o GPT-5 High da OpenAI atingiu equivalência em 38,76% dos casos, destacando-se pela precisão na busca de conhecimento específico.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O CEO da OpenAI, Sam Altman, rebateu as críticas negativas sobre o lançamento do GPT-5, afirmando que os céticos interpretaram mal o potencial do modelo ao basearem suas visões em expectativas exageradas de uma inteligência artificial geral imediata. Altman explicou que o novo modelo adota técnicas avançadas para aprender com feedback de especialistas e gerar dados próprios de treino, otimizando tarefas complexas de codificação e pesquisa científica. O executivo ressaltou que a empresa passou a tratar a AGI como um processo contínuo de evolução e projetou que os futuros modelos GPT-6 e GPT-7 consolidarão saltos disruptivos na sociedade.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Mustafa Suleyman, CEO da Microsoft AI, alertou em entrevista que o avanço descontrolado de sistemas de inteligência artificial com capacidade de modificar o próprio código e definir objetivos autônomos poderá exigir uma intervenção de nível militar em um horizonte de cinco a dez anos. O executivo discutiu os riscos associados aos estágios de Inteligência Artificial Geral (AGI) e Superinteligência Artificial (ASI), nos quais os sistemas ultrapassam as habilidades cognitivas humanas. O cenário pessimista é corroborado por pesquisas lideradas por ex-membros da OpenAI, que preveem riscos geopolíticos severos decorrentes da perda de controle tecnológico.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A OpenAI confirmou o início dos testes para a veiculação de anúncios e materiais patrocinados na interface do ChatGPT, afetando inicialmente usuários da versão gratuita e do plano econômico Go nos Estados Unidos. A empresa garantiu que as propagandas serão exibidas apenas quando forem relevantes para o contexto das conversas e que estarão totalmente separadas das respostas da inteligência artificial, sem influenciar as tomadas de decisão ou comprometer dados privados com os anunciantes. O recurso será bloqueado em interações que envolvam temas sensíveis, como saúde e política, e as assinaturas Plus e Pro permanecerão isentas.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A plataforma ai.com foi lançada oficialmente pelo CEO da Crypto.com, Kris Marszalek, com o objetivo de popularizar o uso de agentes autônomos de inteligência artificial capazes de realizar tarefas cotidianas como negociar ações, automatizar fluxos de trabalho e gerenciar e-mails. O projeto foi viabilizado após o fundador adquirir o domínio por US$ 70 milhões e visa impulsionar avanços rumo à inteligência artificial geral (AGI) por meio de uma rede de bilhões de assistentes que se autoaperfeiçoam. O serviço oferece recursos básicos gratuitos e exige a validação de um cartão de crédito para comprovar a identidade humana do usuário.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A Meta anunciou o investimento de US$ 14,3 bilhões para adquirir uma participação de 49% na Scale AI, startup especializada em serviços de rotulagem de dados para o treinamento de modelos de inteligência artificial. O movimento estratégico visa acelerar o desenvolvimento tecnológico da controladora do Facebook e competir diretamente com o Google e a OpenAI, trazendo o CEO Alexandr Wang para uma função de liderança no laboratório de superinteligência da Meta. A movimentação ocorre em meio à insatisfação interna com o desempenho do modelo Llama 4 Maverick, que pontuou abaixo de concorrentes em avaliações de eficiência.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O cientista Geoffrey Hinton, laureado com o Prêmio Nobel de Física por suas pesquisas pioneiras em redes neurais e aprendizado de máquina, defendeu em conferência que os pesquisadores devem projetar sistemas de inteligência artificial dotados de instintos de proteção aos humanos, visto que o controle absoluto sobre essas ferramentas se tornará ilusório quando elas superarem a capacidade cognitiva humana. Hinton reduziu sua previsão para o atingimento da inteligência artificial geral (AGI) para um prazo de cinco a vigte anos e manifestou ceticismo sobre o uso da tecnologia para reverter o envelhecimento ou alcançar a imortalidade.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A técnica RAG (Retrieval-Augmented Generation) consolidou-se na arquitetura de inteligência artificial como uma ferramenta crucial para reduzir alucinações em modelos de linguagem, permitindo que o sistema consulte bases de dados externas e confiáveis antes de gerar respostas. O processo envolve a fragmentação de documentos institucionais e sua conversão em vetores numéricos que preservam o contexto semântico. Quando uma pergunta é processada, o mecanismo recupera os trechos mais relevantes para enriquecer o prompt, garantindo resultados precisos e fundamentados para aplicações como chatbots de suporte, auditorias jurídicas e pesquisas financeiras.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A evolução da inteligência artificial generativa tem impulsionado transformações profundas nas dinâmicas produtivas globais, ancorada na potência de processamento em escala das GPUs desenvolvidas pela Nvidia. Paralelamente, debates regulatórios e éticos ganharam urgência no Fórum Econômico Mundial, onde líderes globais discutem a governança algorítmica e os impactos da substituição de mão de obra humana. Consultorias como o Gartner apontam a urgência de adaptação corporativa aos custos de implementação, enquanto novas fronteiras tecnológicas se movem em direção a agentes autônomos e discussões sobre os prazos para o surgimento da inteligência artificial geral (AGI).",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Os modelos de inteligência artificial processam dados textuais, visuais e sonoros dividindo o conteúdo em pequenas unidades de informação chamadas tokens. Durante o treinamento, os algoritmos analisam bilhões dessas sequências para identificar padrões preditivos. Na utilização comercial via APIs, as empresas cobram com base no volume de tokens de entrada (input) e saída (output), refletindo o esforço computacional exigido para cada tarefa. Formatos complexos como vídeos demandam um consumo significativamente maior de tokens do que textos simples, existindo opções de descontos para processamentos em lote que não exigem respostas imediatas.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A xAI, empresa de tecnologia fundada por Elon Musk, anunciou o lançamento do Grok 4 e de sua variação Grok 4 Heavy, modelo inteligente que opera com múltiplos agentes de inteligência artificial focados em pesquisar e comparar resultados complexos de nível acadêmico. A companhia disponibilizou o novo recurso por meio de uma assinatura premium denominada SuperGrok Heavy, comercializada ao valor de US$ 300 mensais, superando a faixa de preços praticada pelos concorrentes de mercado. A empresa também revelou planos para lançar ferramentas focadas em programação e um modelo dedicado à geração multimodal de vídeos.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O Google iniciou movimentações de mercado para cortar seu acordo de fornecimento de dados com a Scale AI e transferir sua carga de trabalho para novos parceiros de rotulagem, após a startup fechar uma negociação bilionária com a Meta. Sendo o maior cliente individual da Scale AI, o Google planejava desembolsar cerca de US$ 200 milhões pelo treinamento de seus modelos, mas a aquisição de 49% da startup pela controladora do Facebook e a ida de seu CEO para o grupo de superinteligência da Meta criaram impasses comerciais e riscos competitivos na corrida pelo desenvolvimento da inteligência artificial geral (AGI).",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A imprensa internacional, incluindo veículos como The Washington Post, Clarín, Bild, El País, SIC Notícias e Independent, repercutiu amplamente a convocação do atacante Neymar Jr. pelo técnico Carlo Ancelotti para disputar a Copa do Mundo de 2026. As publicações destacaram o suspense criado pela comissão técnica e o êxtase dos torcedores brasileiros, ponderando que o jogador enfrentava um período longo de afastamento da seleção e dificuldades físicas devido a uma grave lesão sofrida em 2023. Ancelotti defendeu a escolha ressaltando a importância de atletas experientes e talentosos para minimizar erros no torneio mundial.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Especialistas em recursos humanos e gestores corporativos utilizam a trajetória profissional e os comportamentos extracampo do jogador Neymar Jr. para debater os riscos associados à contratação de profissionais brilhantes que acumulam polêmicas ou dedicam excessiva energia a projetos e marcas pessoais paralelas. Análises de mercado apontam que o ambiente corporativo atual valoriza entregas consistentes, colaboração e inteligência emocional em detrimento do talento individual isolado, visto que funcionários com comportamento difícil ou privilégios excessivos podem gerar severos custos invisíveis ao clima organizacional e à motivação das equipes.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Em participação no quadro \"Pode Perguntar?\", do Fantástico, o técnico Luiz Felipe Scolari, o Felipão, falou sobre temas marcantes de sua trajetória no futebol: a derrota histórica da Seleção Brasileira por 7 a 1 para a Alemanha em 2014, o afastamento do treinador Tite e a relação de proximidade com o atacante português Cristiano Ronaldo. O treinador classificou o resultado no Mineirão como um episódio coletivo e explicou que no intervalo, com o placar em 5 a 0, buscou conter o impacto emocional sobre os jogadores. Felipão confirmou o distanciamento de Tite após acusações infundadas envolvendo uma suposta derrota proposital no passado e revelou manter contato frequente com Cristiano Ronaldo, elogiando sua dedicação extrema mesmo após os 40 anos.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Os álbuns de figurinhas da Copa do Mundo de 2026 tornaram-se uma febre entre famílias de Cuiabá, Mato Grosso, mobilizando colecionadores de diversas idades a desembolsarem mais de R$ 1.300 para preencher as 980 páginas do cromo oficial. Devido ao custo elevado de R$ 7 por envelope nas bancas e à grande quantidade de imagens repetidas, os participantes organizaram pontos de troca e interações sociais em praças públicas para obter as figurinhas faltantes de forma econômica. Alguns colecionadores relatam utilizar estratégias de venda e negociação de cromos raros para financiar a conclusão de múltiplos álbuns.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O Jornal Nacional iniciou a exibição de uma série especial em seis episódios focada na essência e na história do futebol brasileiro, resgatando as virtudes táticas e o talento instintivo que consagraram a seleção como a única pentacampeã mundial. O primeiro capítulo relembrou o protagonismo de Pelé e Garrincha nas conquistas de 1958, 1962 e 1970, além de colher depoimentos de ídolos como Romário, Cafu e Casemiro sobre a pressão dos jejuns históricos. O técnico Carlo Ancelotti participou da produção destacando que o futebol moderno exige a combinação do talento individual bruto com uma sólida organização coletiva e sacrifício mútuo.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Auxiliares próximos do presidente Luiz Inácio Lula da Silva avaliam que o governo dos Estados Unidos iniciou um movimento explícito para interferir nas eleições brasileiras deste ano. No núcleo do Palácio do Planalto, a percepção é que há um risco concreto de o tiro sair pela culatra, pois existe forte rejeição no Brasil ao presidente americano Donald Trump, que cada vez mais passa a ser associado ao senador e pré-candidato Flávio Bolsonaro. Há o reconhecimento no Planalto de que essa interferência acontece principalmente por parte de um setor do governo americano mais ideológico, liderado pelo secretário de Estado dos EUA, Marco Rubio, que tem interlocução com a família Bolsonaro. Os gestos e as falas da cúpula americana são vistos como concretos ao citar diretamente o ciclo eleitoral no país, abandonando a sutileza diplomática.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "A publicação de fotos oficiais e declarações de apoio de Donald Trump a lideranças conservadoras evidenciam uma estratégia contínua da Casa Branca de influenciar pleitos eleitorais estrangeiros na América Latina para favorecer aliados alinhados à ideologia MAGA. A interferência do presidente americano imprimiu tensões diplomáticas e polarização em campanhas da Colômbia, Equador e Honduras, além de envolver pacotes bilionários de resgate financeiro para fortalecer o governo de Javier Milei na Argentina. No Brasil, a dinâmica se intensificou após o anúncio de tarifas restritivas e declarações do secretário Marco Rubio posicionando o país à margem de alianças tradicionais.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O senador Flávio Bolsonaro afirmou em entrevista de rádio ter solicitado formalmente ao presidente Donald Trump, ao vice J.D. Vance e ao secretário de Estado Marco Rubio que não apliquem as tarifas aduaneiras propostas de 25% sobre as exportações de empresas brasileiras. A sobretaxa sugerida pelo Escritório de Comércio dos EUA decorre de investigações comerciais envolvendo o sistema PIX, o desmatamento ilegal e falhas na aplicação de leis anticorrupção locais. O parlamentar criticou o presidente Lula, classificando a medida norte-americana como uma retaliação econômica direta às posturas de política externa adotadas pelo governo federal.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O presidente norte-americano Donald Trump declarou apoio ao candidato de ultradireita Abelardo de la Espriella no segundo turno das eleições presidenciais da Colômbia, elogiando sua postura firme de linha-dura no combate à criminalidade e ao tráfico de drogas. Conhecido como El Tigre e apresentando semelhanças com Nayib Bukele, o advogado propõe uma ofensiva militar contra guerrilhas e a retirada do país de organismos como a ONU e a OEA. De la Espriella enfrenta nas urnas o esquerdista Iván Cepeda, aliado de Gustavo Petro, em um cenário marcado por controvérsias sobre sua atuação passada na defesa de investigados ligados ao governo venezuelano de Nicolás Maduro.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O Nubank reportou um lucro líquido de US$ 871,4 milhões no primeiro trimestre, apresentando um resultado abaixo das expectativas dos analistas de mercado devido ao aumento nas provisões financeiras decorrentes do crescimento acelerado de sua carteira total de empréstimos, que atingiu US$ 37,2 bilhões. O diretor financeiro Guilherme Lago pontuou à Reuters que a variação nos índices de inadimplência reflete oscilações sazonais típicas do período e não uma deterioração do crédito. A instituição financeira encerrou o balanço expandindo sua base global para 135,2 milhões de clientes, impulsionada pelo equilíbrio financeiro da operação no México.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Em entrevista exclusiva ao g1, o médico Drauzio Varella alertou sobre o despreparo estrutural do país para lidar com os impactos físicos e mentais decorrentes de desastres ambientais, relembrando o cenário devastador observado no Rio Grande do Sul. O especialista realizou um amplo diagnóstico social abrangendo a emergência climática, as doenças crônicas ligadas ao envelhecimento populacional acelerado no Brasil onde os índices de diabetes e hipertensão crescem continuamente e defendeu que as inovações tecnológicas, como robôs cirúrgicos e inteligência artificial, devem atuar estritamente como ferramentas de suporte, sem desumanizar a relação clássica médico-paciente.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O médico Drauzio Varella abriu um processo judicial contra a Meta, controladora do Facebook e do Instagram, devido à veiculação ilegal de anúncios fraudulentos que utilizam ferramentas de inteligência artificial para clonar sua voz e imagem com o intuito de comercializar remédios e tratamentos sem registro. A ação é amparada por um estudo da Universidade Federal do Rio de Janeiro que identificou que mais de 76% das propagandas de saúde nas plataformas são enganosas. O especialista alertou a população de que o Código de Ética Médica proíbe sumariamente a publicidade de medicamentos por profissionais, sinalizando que tais ofertas configuram golpes.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "Dados da pesquisa Vigitel do Ministério da Saúde indicaram um aumento de 25% no percentual relativo de fumantes no Brasil, impulsionado pela introdução e comercialização irregular de novos dispositivos de nicotina desenvolvidos para atrair o público jovem. Pneumologistas alertam que produtos como sachês de nicotina oral aceleram a dependência e elevam os riscos de internações por intoxicação aguda, contendo dosagens de substância viciante muito superiores às de um cigarro comum. A Anvisa reiterou a ilegalidade desses produtos no mercado nacional, cujos impactos à saúde incluem severos riscos cardiovasculares, respiratórios e disfunção erétil.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "O presidente Luiz Inácio Lula da Silva e o ministro da Saúde Alexandre Padilha anunciaram a construção do novo Centro de Pesquisa Clínica e Cirurgia Robótica do Instituto de Treinamento em Cirurgias Minimamente Invasivas, filiado ao Hospital de Amor em Barretos, São Paulo. A agenda oficial divulgou um pacote de investimentos e medidas estruturais voltadas à assistência oncológica pelo Sistema Único de Saúde (SUS), incluindo a criação de uma tabela específica de financiamento público para procedimentos cirúrgicos robóticos de alta complexidade na rede oncológica, além da distribuição de veículos de transporte e novos equipamentos médicos aceleradores lineares.",
+    "classe": "Fato"
+  },
+  {
+    "texto": "As autoridades de saúde dos Estados Unidos aprovaram uma terapia genética pioneira desenvolvida pela empresa de biotecnologia Regeneron, denominada Otarmeni, voltada para o tratamento de formas raras de perda auditiva hereditária precoce causadas por mutações no gene OTOF. O medicamento é administrado por meio de uma única injeção cirúrgica diretamente no ouvido interno para restabelecer a produção de proteínas essenciais na transmissão dos sinais sonoros até o cérebro. Os testes clínicos demonstraram uma melhora altamente significativa na audição em 80% das crianças e jovens tratados, com a empresa anunciando programas de acesso gratuito a pacientes elegíveis.",
     "classe": "Fato"
   }
 ]
