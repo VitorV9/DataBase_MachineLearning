@@ -4,18 +4,20 @@ Script desenvolvido em Ruby para a extração, limpeza e estruturação de uma b
 ## 📌 Escopo do Trabalho: Trabalho Prático 1 (T1) — Nota 2 (N2).
 Tema: Desinformação com/sobre Inteligência Artificial
 
-Período de Coleta:
+Quantidade de Dados coletados: A base de dados é composta por 60 notícias balanceadas, sendo 30 classificadas como Fato e 30 como Fake.
+
+Período de Coleta: O período de coleta das publicações foi de fevereiro de 2025 até junho de 2026.
 
 ## 🛠️ Tecnologias e Ferramentas
 Construção do Dataset: Ruby (v3.x+)
-Gerenciador de Dependências: Bundler e ...
+Gerenciador de Dependências: Bundler e json
 
 Algoritmo de Machine Learning: Weka (Interface Gráfica — NaiveBayesMultinomial)
 
 ## 📦 Como Instalar e Rodar (Ambiente de Desenvolvimento)
 Siga os comandos abaixo no seu terminal para clonar o projeto e preparar a infraestrutura na sua máquina:
 
-1. Clonar o projeto e entrar na pasta
+Clonar o projeto e entrar na pasta
 ```Bash
 git clone (https://github.com/VitorV9/DataBase_MachineLearning.git)
 cd DataBase_MachineLearning
