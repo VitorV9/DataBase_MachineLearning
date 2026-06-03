@@ -2,7 +2,7 @@
 Script desenvolvido em Ruby para a extração, limpeza e estruturação de uma base de dados textuais focada em desinformação sobre Inteligência Artificial, gerando o arquivo de entrada nativo para mineração de dados no Weka.
 
 ## 📌 Escopo do Trabalho: Trabalho Prático 1 (T1) — Nota 2 (N2).
-Tema: Desinformação com Inteligência Artificial
+Tema: Desinformação com/sobre Inteligência Artificial
 
 Período de Coleta:
 
