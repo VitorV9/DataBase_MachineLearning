@@ -14,9 +14,13 @@ File.open('dados_trabalho.arff', 'w:UTF-8') do |f|
   # 3. Percorrer os dados e salvar no formato do Weka
   dados.each do |item|
     # Limpeza básica de aspas e quebras de linha para o Weka não herdar bugs
-    texto_limpo = item['texto'].gsub('"', "").gsub("'", "").gsub('\\\\', "").gsub("\n", " ").gsub("\r", " ")
-    # Cospe a linha formatada: 'Texto da noticia',Classe
-    f.puts "'#{texto_limpo}',#{item['classe']}"
+    # Limpeza profunda com Expressões Regulares para blindar o Weka
+  texto_limpo = item['texto']
+                  .gsub(/['"\\’“”]/, '') # Remove aspas simples, duplas, barras e aspas curvas
+                  .gsub(/[\n\r]/, ' ')   # Substitui qualquer quebra de linha ou retorno por espaço
+                  .gsub(/\s+/, ' ')      # Remove espaços duplos ou repetidos
+  # Cospe a linha formatada com a classe limpa
+  f.puts "'#{texto_limpo.strip}',#{item['classe'].strip}"
   end
 end
 
