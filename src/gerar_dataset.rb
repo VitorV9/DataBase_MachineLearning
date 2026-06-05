@@ -2,6 +2,8 @@ require 'json'
 
 dados = JSON.parse(File.read('src/dataset.json'))
 
+dados.shuffle!
+
 File.open('dados_trabalho.arff', 'w:UTF-8') do |f|
   f.puts "@relation desinformacao_ia\n\n"
   f.puts "@attribute texto string"
@@ -9,7 +11,7 @@ File.open('dados_trabalho.arff', 'w:UTF-8') do |f|
   f.puts "@data"
 
   dados.each do |item|
-  texto_limpo = item['texto'].gsub(/['"\\’“”]/, '').gsub(/[\n\r]/, ' ') .gsub(/\s+/, ' ')     
+  texto_limpo = item['texto'].gsub(/['"\\’“”]/, '').gsub(/\s+/, ' ')     
   f.puts "'#{texto_limpo.strip}',#{item['classe'].strip}"
   end
 end
