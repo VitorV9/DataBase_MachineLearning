@@ -4,7 +4,7 @@ Script desenvolvido em Ruby para a extração, limpeza e estruturação de uma b
 ## 📌 Escopo do Trabalho: Trabalho Prático 1 (T1) — Nota 2 (N2).
 Tema: Desinformação com/sobre Inteligência Artificial
 
-Quantidade de Dados coletados: A base de dados é composta por 60 notícias balanceadas, sendo 40 classificadas como Fato e 40 como Fake.
+Quantidade de Dados coletados: A base de dados é composta por 60 notícias balanceadas, sendo 30 classificadas como Fato e 30 como Fake.
 
 Período de Coleta: O período de coleta das publicações foi de fevereiro de 2025 até junho de 2026.
 
