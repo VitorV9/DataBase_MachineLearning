@@ -11,7 +11,7 @@ File.open('dados_trabalho.arff', 'w:UTF-8') do |f|
   f.puts "@data"
 
   dados.each do |item|
-  texto_limpo = item['texto'].gsub(/[?)(],:%!['"\\’“”]/, '').gsub(/\s+/, ' ')     
+  texto_limpo = item['texto'].gsub(/[\?\)\(\,\:\%\!\'\"\\’“”\[\]\.\…\/]/, '').gsub(/\s+/, ' ').downcase
   f.puts "'#{texto_limpo.strip}',#{item['classe'].strip}"
   end
 end
